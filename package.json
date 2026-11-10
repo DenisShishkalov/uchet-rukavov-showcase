@@ -1,0 +1,11 @@
+{
+  "name": "uchet-rukavov-showcase",
+  "version": "1.0.0",
+  "description": "Витрина программы «Учёт рукавов»: описание, скриншоты и модули расчётов с тестами",
+  "type": "module",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  }
+}
